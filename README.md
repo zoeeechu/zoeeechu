@@ -2,7 +2,7 @@
 - ♡ Haiii I’m @zoeeechu ︶꒷꒦
 - ♡ gender┆Female ︶꒷꒦˚ ɞ
 - ♡ Favorite languages JS C# ︶꒷꒦
-- ♡ Makes Personal Projects ︶꒷꒦˚ ɞ
+- ♡ Makes Personal Projects ︶꒷꒦˚ ɞ  
 ⊹₊꒷︵︵︵୭﹒🍓🌸﹒୧︵︵︵₊˚⊹ 
 
 📫 How to reach me:
