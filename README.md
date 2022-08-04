@@ -3,8 +3,8 @@
 > ♡ gender┆Female ︶꒷꒦˚ ɞ
 > ♡ Favorite languages JS C# ︶꒷꒦
 > ♡ Makes Personal Projects ︶꒷꒦˚ ɞ
-⊹₊꒷︵︵︵୭﹒🍓🌸﹒୧︵︵︵₊˚⊹ thankies you for reading~!
+⊹₊꒷︵︵︵୭﹒🍓🌸﹒୧︵︵︵₊˚⊹ 
 
 📫 How to reach me:
-Discord: ୨ zoe; ꒷꒦#7508
+Discord: ₊˚🌷 ︵ zoe ₊˚ ♡#7508
 
