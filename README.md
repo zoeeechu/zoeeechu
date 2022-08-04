@@ -1,4 +1,4 @@
-︵︵︵︵🌸🍓·  ·  ·  ·⊹｡ ﾟ⁖✦ 
+
 - ♡ Haiii I’m @zoeeechu ︶꒷꒦
 - ♡ gender┆Female ︶꒷꒦˚ ɞ
 - ♡ Favorite languages JS C# ︶꒷꒦
@@ -7,4 +7,6 @@
 
 📫 How to reach me:
 Discord: ₊˚🌷 ︵ zoe ₊˚ ♡#7508
+
+:shipit:
 
