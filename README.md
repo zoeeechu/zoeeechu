@@ -10,3 +10,4 @@ Discord: ₊˚🌷 ︵ zoe ₊˚ ♡#7508
 
 :shipit:
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/427835914052567040)](https://discord.com/users/427835914052567040)
