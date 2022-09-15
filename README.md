@@ -6,8 +6,8 @@
 <h3 align="center">
 Languages and Tools:
 </h3>
-<p align="center">
-  
+
+<p align="center">  
 <img src="./Logos/JS.png" width="25"  href="https://www.javascript.com/">   <img src="./Logos/c_Sharp.png" width="25"  href="https://docs.microsoft.com/en-us/dotnet/csharp/">   <img src="./Logos/arduino.png" width="25"  href="https://docs.arduino.cc/">   <img src="./Logos/Bash.png" width="25"  href="https://www.gnu.org/software/bash/">   <img src="./Logos/git-bash.svg" width="25" href="https://git-scm.com/">   <img src="./Logos/tux.png" width="25"  href="https://www.linux.org/">   <img src="./Logos/Electron.png" width="25"  href="https://www.electronjs.org/">   <img src="./Logos/lua.png" width="25"  href="https://www.lua.org/"> 
 </p>
 
@@ -23,7 +23,9 @@ Languages and Tools:
 Software Knowlege:
 </h3>
 
+<p align="center">  
 <img src="./Logos/Unity.webp" width="25"  href="https://unity.com/">   <img src="./Logos/il.png" width="25">   <img src="./Logos/ph.png" width="25">   <img src="./Logos/pr.png" width="25">   <img src="./Logos/af.png" width="25">   <img src="./Logos/bl.png" width="25">   <img src="./Logos/vsc.png" width="25">   <img src="./Logos/vs.png" width="25">   <img src="./Logos/clip.png" width="25">
+</p>
 
 <p align="center">
 <img src="./b.png" width="25">
