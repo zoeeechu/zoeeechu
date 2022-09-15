@@ -78,8 +78,15 @@ Software Knowlege:
 </div>
 
 <p align="center">
+&nbsp; 
+</p>
+
+<p align="center">
 <img src="https://lanyard.cnrad.dev/api/427835914052567040" href="https://discord.com/users/427835914052567040"/>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoeeechu&theme=omni)](https://github.com/zoeeechu/github-readme-stats)
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=zoeeechu&theme=omni" href="https://github.com/zoeeechu/github-readme-stats"/>
+</p>
 
