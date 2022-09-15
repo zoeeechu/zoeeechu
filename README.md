@@ -39,6 +39,3 @@ I make Personal Projects˚ ɞ
 <img src="https://lanyard.cnrad.dev/api/427835914052567040" href="https://discord.com/users/427835914052567040"/>
 </p>
 
-<p align="center">
-:shipit:
-</p>
