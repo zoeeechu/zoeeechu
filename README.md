@@ -76,7 +76,7 @@ Software Knowlege:
     <img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
   </a>
  <a href="https://open.spotify.com/user/aaenotdpodwzucpzcgjxuhrwi?si=N8UVOcV2QASdDmxwh7nfPQ">
-    <img src="https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=Spotify&logoColor=white" alt="Spotify Badge"/>
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=white" alt="Spotify Badge"/>
   </a>
 </div>
 
