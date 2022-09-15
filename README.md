@@ -30,7 +30,7 @@ Languages and Tools:
 </p>
 
 <p align="center">  
-<img src="./Logos/JS.png" width="25"  href="https://www.javascript.com/">&nbsp;&nbsp;   <img src="./Logos/c_Sharp.png" width="25"  href="https://docs.microsoft.com/en-us/dotnet/csharp/">&nbsp;&nbsp;   <img src="./Logos/arduino.png" width="25"  href="https://docs.arduino.cc/"> &nbsp;&nbsp;&nbsp;&nbsp;  <img src="./Logos/Bash.png" width="25"  href="https://www.gnu.org/software/bash/"> &nbsp;&nbsp;  <img src="./Logos/git-bash.svg" width="25" href="https://git-scm.com/">&nbsp;&nbsp;   <img src="./Logos/tux.png" width="25"  href="https://www.linux.org/"> &nbsp;&nbsp;  <img src="./Logos/Electron.png" width="25"  href="https://www.electronjs.org/">&nbsp;&nbsp;   <img src="./Logos/lua.png" width="25"  href="https://www.lua.org/"> 
+<img src="./Logos/JS.png" width="25"  href="https://www.javascript.com/">&nbsp;&nbsp;   <img src="./Logos/c_Sharp.png" width="25"  href="https://docs.microsoft.com/en-us/dotnet/csharp/">&nbsp;&nbsp;   <img src="./Logos/arduino.png" width="25"  href="https://docs.arduino.cc/"> &nbsp;&nbsp;  <img src="./Logos/Bash.png" width="25"  href="https://www.gnu.org/software/bash/"> &nbsp;&nbsp;  <img src="./Logos/git-bash.svg" width="25" href="https://git-scm.com/">&nbsp;&nbsp;   <img src="./Logos/tux.png" width="25"  href="https://www.linux.org/"> &nbsp;&nbsp;  <img src="./Logos/Electron.png" width="25"  href="https://www.electronjs.org/">&nbsp;&nbsp;   <img src="./Logos/lua.png" width="25"  href="https://www.lua.org/"> 
 </p>
 
 <p align="center">
