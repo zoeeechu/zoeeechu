@@ -2,17 +2,16 @@
 <img src="./banner3.gif">
 </h1>
 
-<div class="row">
-  <div class="column" style="background-color:#aaa;">
-    <h2>Column 1</h2>
-    <p>Some text..</p>
-  </div>
-  <div class="column" style="background-color:#bbb;">
-    <h2>Column 2</h2>
-    <p>Some text..</p>
-  </div>
-</div>
-
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
 
 <p align="center">
 ♡ Haiii I’m Zoe! ︶꒷꒦  
