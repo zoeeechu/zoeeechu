@@ -9,10 +9,10 @@
 <img src="./b.png" width="25">
 
 
-- ♡ Haiii I’m @zoeeechu ︶꒷꒦
-- ︶꒷꒦ I am Hobbiest/Student! 
-- I make Personal Projects˚ ɞ
-⊹₊꒷︵︵︵୭﹒🍓🌸﹒୧︵︵︵₊˚⊹ 
+♡ Haiii I’m @zoeeechu ︶꒷꒦  
+︶꒷꒦ I am Hobbiest/Student!  
+I make Personal Projects˚ ɞ  
+⊹₊꒷︵︵︵୭﹒🍓🌸﹒୧︵︵︵₊˚⊹   
 
 <img src="./b.png" width="25">
 
