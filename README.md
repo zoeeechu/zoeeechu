@@ -35,7 +35,7 @@ I make Personal Projects˚ ɞ
 📫 How to reach me:
 </p>
 
-<img width="50%" align="right" src="https://lanyard.cnrad.dev/api/427835914052567040" href="https://discord.com/users/427835914052567040"/>
+<img align="center" src="https://lanyard.cnrad.dev/api/427835914052567040" href="https://discord.com/users/427835914052567040"/>
 
 <p align="center">
 :shipit:
