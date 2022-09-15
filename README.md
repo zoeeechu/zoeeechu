@@ -1,6 +1,11 @@
 <h1 align="center">
 <img src="./banner3.gif">
 </h1>
+
+
+<p align="center">
+##Languages and Tools:
+</p>
 <p align="center">
 <img src="./Logos/JS.png" width="25"  href="https://www.javascript.com/">   <img src="./Logos/c_Sharp.png" width="25"  href="https://docs.microsoft.com/en-us/dotnet/csharp/">   <img src="./Logos/arduino.png" width="25"  href="https://docs.arduino.cc/">   <img src="./Logos/Unity.webp" width="25"  href="https://unity.com/">   <img src="./Logos/Bash.png" width="25"  href="https://www.gnu.org/software/bash/">   <img src="./Logos/git-bash.svg" width="25" href="https://git-scm.com/">   <img src="./Logos/tux.png" width="25"  href="https://www.linux.org/">   <img src="./Logos/Electron.png" width="25"  href="https://www.electronjs.org/">   <img src="./Logos/lua.png" width="25"  href="https://www.lua.org/"> 
 </p>
