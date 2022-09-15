@@ -16,8 +16,14 @@
 
 <p align="center">
 ♡ Haiii I’m @zoeeechu ︶꒷꒦  
+</p>
+<p align="center">
 ︶꒷꒦ I am Hobbiest/Student!  
+</p>
+<p align="center">
 I make Personal Projects˚ ɞ  
+</p>
+<p align="center">
 ⊹₊꒷︵︵︵୭﹒🍓🌸﹒୧︵︵︵₊˚⊹   
 </p>
 
