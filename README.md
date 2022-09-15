@@ -1,6 +1,8 @@
 
 # <img src="./banner.gif">
 
+<img src="./Logos/js.png" width="20">
+
 - ♡ Haiii I’m @zoeeechu ︶꒷꒦
 - ♡ gender┆Female ︶꒷꒦˚ ɞ
 - ♡ Favorite languages JS C# ︶꒷꒦
