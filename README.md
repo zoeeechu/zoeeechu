@@ -9,17 +9,17 @@
 <p align="left">
 I am Hobbiest/Student! 
 </p>
-
-<p align="right">
-<img src="./b.png" width="25">
-</p>
-
 <p align="left">
 I make Personal Projects˚ ɞ  
 </p>
 <p align="left">
 ⊹₊꒷︵︵︵୭﹒🍓🌸﹒୧︵︵︵₊˚⊹   
 </p>
+
+<p align="right">
+<img src="./b.png" width="25">
+</p>
+
 
 <p align="center">
 <img src="./b.png" width="25">
