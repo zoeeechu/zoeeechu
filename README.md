@@ -4,13 +4,13 @@
 
 
 <p align="center">
-♡ Haiii I’m Zoe! ︶꒷꒦  
+Haiii ~♡  I’m zoe! 
 </p>
 <p align="center">
-I am Hobbiest/Student! 
+I am Hobbiest/Student 
 </p>
 <p align="center">
-I make Personal Projects˚ ɞ  
+that makes dumb Personal Projects  
 </p>
 <p align="center">
 ⊹₊꒷︵︵︵୭﹒🍓🌸﹒୧︵︵︵₊˚⊹   
