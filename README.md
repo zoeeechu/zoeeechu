@@ -3,9 +3,9 @@
 </h1>
 
 
-<h2 align="center">
+<h3 align="center">
 Languages and Tools:
-</h2>
+</h3>
 <p align="center">
 <img src="./Logos/JS.png" width="25"  href="https://www.javascript.com/">   <img src="./Logos/c_Sharp.png" width="25"  href="https://docs.microsoft.com/en-us/dotnet/csharp/">   <img src="./Logos/arduino.png" width="25"  href="https://docs.arduino.cc/">   <img src="./Logos/Unity.webp" width="25"  href="https://unity.com/">   <img src="./Logos/Bash.png" width="25"  href="https://www.gnu.org/software/bash/">   <img src="./Logos/git-bash.svg" width="25" href="https://git-scm.com/">   <img src="./Logos/tux.png" width="25"  href="https://www.linux.org/">   <img src="./Logos/Electron.png" width="25"  href="https://www.electronjs.org/">   <img src="./Logos/lua.png" width="25"  href="https://www.lua.org/"> 
 </p>
@@ -17,6 +17,10 @@ Languages and Tools:
 <p align="center">
 <img src="./b.png" width="25">
 </p>
+
+<h3 align="center">
+Languages and Tools:
+</h3>
 
 
 <p align="center">
