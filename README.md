@@ -47,9 +47,9 @@ Software Knowlege:
 <img src="./b.png" width="25">
 </p>
 
-<p align="center">
+<h3 align="center">
 📫 How to reach me:
-</p>
+</h3>
 
 <div id="badges" align="center">
   <a href="https://discordapp.com/users/427835914052567040">
