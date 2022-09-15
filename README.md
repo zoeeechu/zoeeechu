@@ -2,7 +2,7 @@
 <img src="./banner.gif">
 
 
-<img src="./Logos/JS.png" width="25">
+<img src="./Logos/JS.png" width="25"><img src="./Logos/c_Sharp.png" width="25">
 
 - ♡ Haiii I’m @zoeeechu ︶꒷꒦
 - ♡ gender┆Female ︶꒷꒦˚ ɞ
