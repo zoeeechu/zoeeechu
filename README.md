@@ -2,6 +2,22 @@
 <img src="./banner3.gif">
 </h1>
 
+<p align="center">
+♡ Haiii I’m Zoe! ︶꒷꒦  
+</p>
+<p align="center">
+︶꒷꒦ I am Hobbiest/Student!  
+</p>
+<p align="center">
+I make Personal Projects˚ ɞ  
+</p>
+<p align="center">
+⊹₊꒷︵︵︵୭﹒🍓🌸﹒୧︵︵︵₊˚⊹   
+</p>
+
+<p align="center">
+<img src="./b.png" width="25">
+</p>
 
 <h3 align="center">
 Languages and Tools:
@@ -25,23 +41,6 @@ Software Knowlege:
 
 <p align="center">  
 <img src="./Logos/Unity.webp" width="25"  href="https://unity.com/">   <img src="./Logos/il.png" width="25">   <img src="./Logos/ph.png" width="25">   <img src="./Logos/pr.png" width="25">   <img src="./Logos/af.png" width="25">   <img src="./Logos/bl.png" width="25">   <img src="./Logos/vsc.png" width="25">   <img src="./Logos/vs.png" width="25">   <img src="./Logos/clip.png" width="25">
-</p>
-
-<p align="center">
-<img src="./b.png" width="25">
-</p>
-
-<p align="center">
-♡ Haiii I’m @zoeeechu ︶꒷꒦  
-</p>
-<p align="center">
-︶꒷꒦ I am Hobbiest/Student!  
-</p>
-<p align="center">
-I make Personal Projects˚ ɞ  
-</p>
-<p align="center">
-⊹₊꒷︵︵︵୭﹒🍓🌸﹒୧︵︵︵₊˚⊹   
 </p>
 
 <p align="center">
