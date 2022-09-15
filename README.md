@@ -1,7 +1,8 @@
 
-# <img src="./banner.gif">
+<img src="./banner.gif">
 
-<img src="./Logos/JS.png" width="20">
+
+<img src="./Logos/JS.png" width="25">
 
 - ♡ Haiii I’m @zoeeechu ︶꒷꒦
 - ♡ gender┆Female ︶꒷꒦˚ ɞ
