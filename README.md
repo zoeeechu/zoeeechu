@@ -50,7 +50,7 @@ Software Knowlege:
 </p>
 
 <p align="center">  
-<img src="./Logos/Unity.webp" width="25"  href="https://unity.com/">   <img src="./Logos/il.png" width="25">   <img src="./Logos/ph.png" width="25">   <img src="./Logos/pr.png" width="25">   <img src="./Logos/af.png" width="25">   <img src="./Logos/bl.png" width="25">   <img src="./Logos/vsc.png" width="25">   <img src="./Logos/vs.png" width="25">   <img src="./Logos/clip.png" width="25">
+<img src="./Logos/Unity.webp" width="25"  href="https://unity.com/"> <p>&nbsp;</p>  <img src="./Logos/il.png" width="25"> <p>&nbsp;</p>  <img src="./Logos/ph.png" width="25"> <p>&nbsp;</p>  <img src="./Logos/pr.png" width="25"> <p>&nbsp;</p>  <img src="./Logos/af.png" width="25"> <p>&nbsp;</p>  <img src="./Logos/bl.png" width="25"> <p>&nbsp;</p>  <img src="./Logos/vsc.png" width="25"> <p>&nbsp;</p>  <img src="./Logos/vs.png" width="25"> <p>&nbsp;</p>  <img src="./Logos/clip.png" width="25">
 </p>
 
 <p align="center">
