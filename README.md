@@ -36,14 +36,14 @@ I make Personal Projects˚ ɞ
 </p>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://discordapp.com/users/427835914052567040">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/channel/UCDWURpYzWmAjdg41h7MqOzA">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.twitch.tv/zoeebun">
+    <img src="https://img.shields.io/badge/Twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
   </a>
 </div>
 
