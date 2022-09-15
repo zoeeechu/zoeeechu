@@ -3,21 +3,17 @@
 </h1>
 
 
-<p align="left">
+<p align="center">
 ♡ Haiii I’m Zoe! ︶꒷꒦  
 </p>
-<p align="left">
+<p align="center">
 I am Hobbiest/Student! 
 </p>
-<p align="left">
+<p align="center">
 I make Personal Projects˚ ɞ  
 </p>
-<p align="left">
+<p align="center">
 ⊹₊꒷︵︵︵୭﹒🍓🌸﹒୧︵︵︵₊˚⊹   
-</p>
-
-<p align="right">
-<img src="./b.png" width="25">
 </p>
 
 
