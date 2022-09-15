@@ -7,12 +7,13 @@
 <img src="./Logos/djs.svg" width="100">
 
 <img src="./b.png" width="25">
-```
-♡ Haiii I’m @zoeeechu ︶꒷꒦
-︶꒷꒦ I am Hobbiest/Student! 
-I make Personal Projects˚ ɞ
+
+
+- ♡ Haiii I’m @zoeeechu ︶꒷꒦
+- ︶꒷꒦ I am Hobbiest/Student! 
+- I make Personal Projects˚ ɞ
 ⊹₊꒷︵︵︵୭﹒🍓🌸﹒୧︵︵︵₊˚⊹ 
-```
+
 <img src="./b.png" width="25">
 
 📫 How to reach me:
