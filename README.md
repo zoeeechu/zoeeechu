@@ -9,7 +9,9 @@
 <img src="./Logos/djs.svg" width="100">
 </p>
 
-<img src="./b.png" width="25" align="center">
+<p align="center">
+<img src="./b.png" width="25">
+</p>
 
 
 <p align="center">
@@ -19,15 +21,16 @@ I make Personal Projects˚ ɞ
 ⊹₊꒷︵︵︵୭﹒🍓🌸﹒୧︵︵︵₊˚⊹   
 </p>
 
-<img src="./b.png" width="25" align="center">
+<p align="center">
+<img src="./b.png" width="25">
+</p>
 
 <p align="center">
 📫 How to reach me:
 </p>
 
-<p align="center">
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/427835914052567040)](https://discord.com/users/427835914052567040)
-</p>
 
 <p align="center">
 :shipit:
