@@ -6,7 +6,7 @@
 ♡ Haiii I’m Zoe! ︶꒷꒦  
 </p>
 <p align="center">
-︶꒷꒦ I am Hobbiest/Student!  
+I am Hobbiest/Student!  
 </p>
 <p align="center">
 I make Personal Projects˚ ɞ  
