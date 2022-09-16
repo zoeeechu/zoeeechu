@@ -93,3 +93,7 @@ Software Knowlege:
 <img src="https://github-readme-stats.vercel.app/api?username=zoeeechu&theme=omni" href="https://github.com/zoeeechu/github-readme-stats"/>
 </p>
 
+<p align="center">
+<img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=zoeeechu&theme=omni" href="https://github.com/zoeeechu/github-readme-stats"/>
+</p>
+
