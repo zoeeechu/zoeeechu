@@ -4,16 +4,7 @@
 
 
 <p align="center">
-Haiii ~♡  I’m zoe! 
-</p>
-<p align="center">
-I am Hobbiest/Student 
-</p>
-<p align="center">
-that makes dumb Personal Projects  
-</p>
-<p align="center">
-⊹₊꒷︵︵︵୭﹒🍓🌸﹒୧︵︵︵₊˚⊹   
+<img src="./intro.gif">
 </p>
 
 
