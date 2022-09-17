@@ -31,9 +31,14 @@
 <img src="./b.png" width="25">
 </p>
 
+<p align="center">
+&nbsp; 
+</p>
+
+
 
 <p align="center">
-<img src="./software.PNG">
+<img src="./software.PNG"width="400">
 </p>
 
 
