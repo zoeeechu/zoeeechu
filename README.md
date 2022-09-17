@@ -31,7 +31,7 @@
 <img src="./b.png" width="25">
 </p>
 
-<div class="l" align="right">
+<div class="l" align="center">
 <h3>
 Languages and Tools:
 </h3>
