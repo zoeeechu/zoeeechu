@@ -68,7 +68,7 @@ Software Knowlege:
 </p>
 
 <h3 align="center">
-📫 How to reach me:
+📫 Have any questions? dm me on Discord!:
 </h3>
 
 <p align="center">
@@ -80,17 +80,9 @@ Software Knowlege:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoeeechu&layout=compact&theme=omni" href="https://github.com/zoeeechu/github-readme-stats"/>
   </a>
   <a href="https://www.youtube.com/channel/UCDWURpYzWmAjdg41h7MqOzA">
-<img src="https://github-readme-stats.vercel.app/api?username=zoeeechu&theme=omni" href="https://github.com/zoeeechu/github-readme-stats"/>
+<img src="https://lanyard.cnrad.dev/api/427835914052567040" href="https://discord.com/users/427835914052567040"/>
   </a>
 </div>
-
-<p align="center">
-&nbsp; 
-</p>
-
-<p align="center">
-<img src="https://lanyard.cnrad.dev/api/427835914052567040" href="https://discord.com/users/427835914052567040"/>
-</p>
 
 
 
