@@ -31,6 +31,7 @@
 <img src="./b.png" width="25">
 </p>
 
+<div class="l">
 <h3 align="center">
 Languages and Tools:
 </h3>
@@ -46,11 +47,9 @@ Languages and Tools:
 <p align="center">
 <img src="./Logos/djs.svg" width="100">
 </p>
+</div>
 
-<p align="center">
-<img src="./b.png" width="25">
-</p>
-
+<div class="S">
 <h3 align="center">
 Software Knowlege:
 </h3>
@@ -62,10 +61,13 @@ Software Knowlege:
 <p align="center">  
 <img src="./Logos/Unity.webp" width="25" href="https://unity.com/"> &nbsp;&nbsp; <img src="./Logos/il.png" width="25">&nbsp;&nbsp;   <img src="./Logos/ph.png" width="25">&nbsp;&nbsp;  <img src="./Logos/pr.png" width="25"> &nbsp;&nbsp;  <img src="./Logos/af.png" width="25">&nbsp;&nbsp;   <img src="./Logos/bl.png" width="25">&nbsp;&nbsp;   <img src="./Logos/vsc.png" width="25">&nbsp;&nbsp;  <img src="./Logos/vs.png" width="25">&nbsp;&nbsp;  <img src="./Logos/clip.png" width="25">
 </p>
+</div>
+
 
 <p align="center">
 <img src="./b.png" width="25">
 </p>
+
 
 <h3 align="center">
 📫 Have any questions? dm me on Discord!:
