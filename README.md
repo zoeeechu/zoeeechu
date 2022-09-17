@@ -2,6 +2,21 @@
 <img src="./logoanim_1.gif" width="400">
 </h1>
 
+<div id="badges" align="center">
+  <a href="https://discordapp.com/users/427835914052567040">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCDWURpYzWmAjdg41h7MqOzA">
+    <img src="https://img.shields.io/badge/YouTube-c4302b?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://www.twitch.tv/zoeebun">
+    <img src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch Badge"/>
+  </a>
+ <a href="https://open.spotify.com/user/aaenotdpodwzucpzcgjxuhrwi?si=N8UVOcV2QASdDmxwh7nfPQ">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=Spotify&logoColor=white" alt="Spotify Badge"/>
+  </a>
+</div>
+
 
 <p align="center">
 <img src="./intro.gif"width="550">
