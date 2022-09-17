@@ -33,7 +33,7 @@
 
 
 <p align="center">
-<img src="./software.PNG"width="550">
+<img src="./software.PNG"width="400">
 </p>
 
 
