@@ -31,37 +31,10 @@
 <img src="./b.png" width="25">
 </p>
 
-<div class="l" align="center">
-<h3>
-Languages and Tools:
-</h3>
-
-<p>
-&nbsp; 
-</p>
-
-
-<img src="./Logos/JS.png" width="25"  href="https://www.javascript.com/">&nbsp;&nbsp;   <img src="./Logos/c_Sharp.png" width="25"  href="https://docs.microsoft.com/en-us/dotnet/csharp/">&nbsp;&nbsp;   <img src="./Logos/arduino.png" width="25"  href="https://docs.arduino.cc/"> &nbsp;&nbsp;  <img src="./Logos/Bash.png" width="25"  href="https://www.gnu.org/software/bash/"> &nbsp;&nbsp;  <img src="./Logos/git-bash.svg" width="25" href="https://git-scm.com/">&nbsp;&nbsp;   <img src="./Logos/tux.png" width="25"  href="https://www.linux.org/"> &nbsp;&nbsp;  <img src="./Logos/Electron.png" width="25"  href="https://www.electronjs.org/">&nbsp;&nbsp;   <img src="./Logos/lua.png" width="25"  href="https://www.lua.org/"> 
-</p>
-
-<p>
-<img src="./Logos/djs.svg" width="100">
-</p>
-</div>
-
-<div class="S">
-<h3 align="center">
-Software Knowlege:
-</h3>
 
 <p align="center">
-&nbsp; 
+<img src="./software.PNG">
 </p>
-
-<p align="center">  
-<img src="./Logos/Unity.webp" width="25" href="https://unity.com/"> &nbsp;&nbsp; <img src="./Logos/il.png" width="25">&nbsp;&nbsp;   <img src="./Logos/ph.png" width="25">&nbsp;&nbsp;  <img src="./Logos/pr.png" width="25"> &nbsp;&nbsp;  <img src="./Logos/af.png" width="25">&nbsp;&nbsp;   <img src="./Logos/bl.png" width="25">&nbsp;&nbsp;   <img src="./Logos/vsc.png" width="25">&nbsp;&nbsp;  <img src="./Logos/vs.png" width="25">&nbsp;&nbsp;  <img src="./Logos/clip.png" width="25">
-</p>
-</div>
 
 
 <p align="center">
