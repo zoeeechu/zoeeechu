@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="./logoanim_1.gif">
+<img src="./logoanim_1.gif" width="100">
 </h1>
 
 
