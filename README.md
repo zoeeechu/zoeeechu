@@ -21,11 +21,11 @@
 &nbsp; 
 </p>
 
-
+<!--
 <p align="center">
 <img src="./intro.gif"width="550">
 </p>
-
+-->
 
 <p align="center">
 <img src="./b.png" width="25">
