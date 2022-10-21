@@ -18,6 +18,10 @@
 </div>
 
 <p align="center">
+&nbsp; 
+</p>
+
+<p align="center">
 use dark mode too see my profile fully <3
 </p>
 
