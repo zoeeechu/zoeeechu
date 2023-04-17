@@ -6,7 +6,7 @@
   <a href="https://discordapp.com/users/427835914052567040">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCDWURpYzWmAjdg41h7MqOzA">
+  <a href="https://www.youtube.com/channel/UCaHfHy11Ac2HtXtzzHA6a2A">
     <img src="https://img.shields.io/badge/YouTube-c4302b?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://www.twitch.tv/zoeebun">
