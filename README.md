@@ -41,7 +41,7 @@
 &nbsp; 
 
 <p align="center">
-🔭 I’m currently working on <a href="https://github.com/zoeeechu/Ako">Ako</a>
+🔭 I’m currently working on <a href="https://github.com/AkoClient/Ako">Ako</a>
 <p align="center">
 🌱 I’m currently learning <b>C++, and Reverse engineering</b>
 <p align="center">
