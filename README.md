@@ -1,4 +1,4 @@
-<div id="badges" align="left">
+<div id="badges" align="right">
 <img src="https://github.com/zoeeechu/Profile-Badges/blob/main/Untitled-1-01.png?raw=true" alt="Badge" width="46"/>
 </div>
 <h1 align="center">
