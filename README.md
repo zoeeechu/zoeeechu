@@ -1,5 +1,5 @@
 <div id="badges" align="right">
-<img src="https://github.com/zoeeechu/Profile-Badges/blob/main/Asset%2017.png?raw=true" alt="Badge" width="46"/>
+<img src="https://github.com/zoeeechu/Profile-Badges/blob/main/Asset%2017.png?raw=true" alt="Badge" width="40"/>
 </div>
 <h1 align="center">
 <img src="./logoanim_1.gif" width="400">
