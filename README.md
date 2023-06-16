@@ -1,5 +1,5 @@
 <div id="badges" align="right">
-<img src="https://github.com/zoeeechu/Profile-Badges/blob/main/Pride-Badges/Dev_Trans.png?raw=true" alt="This Developer is Trans" width="30"/>
+<img src="https://github.com/zoeeechu/ProfileBadges/blob/main/Pride-Badges/Dev_Trans.png?raw=true" alt="This Developer is Trans" width="30"/>
 </div>
 <h1 align="center">
 <img src="./logoanim_1.gif" width="400">
