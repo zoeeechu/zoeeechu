@@ -46,7 +46,7 @@
 <p align="center">
 🔭 I’m currently working on <a href="https://github.com/AkoClient/Ako">Ako</a>
 <p align="center">
-🌱 I’m currently learning <b>C++, and Reverse engineering</b>
+🌱 I’m currently learning <b>assembly, and Reverse engineering</b>
 <p align="center">
 👨‍💻 All of my projects are available Right here!
 
