@@ -48,7 +48,7 @@
 <p align="center">
 🌱 I’m currently learning <b>assembly, and Reverse engineering</b>
 <p align="center">
-👨‍💻 All of my projects are available Right here!
+👨‍💻 Most of my projects are available Right here!
 
 
 <p align="center">
