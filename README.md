@@ -44,9 +44,9 @@
 &nbsp; 
 
 <p align="center">
-🔭 I’m currently working on <a href="https://github.com/AkoClient/Ako">Ako</a>
+🔭 I’m currently working on <a href="https://github.com/zoeeechu/Nahla-Engine">Nahla Engine</a>
 <p align="center">
-🌱 I’m currently learning <b>assembly, and Reverse engineering</b>
+🌱 I’m currently learning Graphics Programming with OpenGL & SDL
 <p align="center">
 👨‍💻 Most of my projects are available Right here!
 
