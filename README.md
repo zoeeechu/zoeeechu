@@ -4,7 +4,7 @@
 <h1 align="center">
 <img src="./logoanim_1.gif" width="400">
 </h1>
-<h3 align="center">your local coffee addicted weebu ♡</h3>
+<h3 align="center">your local coffee addicted girl ♡</h3>
 &nbsp; 
 <div id="badges" align="center">
   <a href="https://discordapp.com/users/427835914052567040">
