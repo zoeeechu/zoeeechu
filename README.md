@@ -70,7 +70,7 @@ Have any questions? DM me on Discord!✨
 
 <p align="center">
 
-<img src="https://lanyard.cnrad.dev/api/427835914052567040?theme=dark&bg=191622&borderRadius=15px&animated=true&idleMessage=mwah~%20my%20prounouns%20are%20she/her" href="https://discord.com/users/427835914052567040"/>
+<img src="https://lanyard.cnrad.dev/api/427835914052567040?theme=dark&bg=191622&borderRadius=15px&animated=true&idleMessage=my%20prounouns%20are%20she/her" href="https://discord.com/users/427835914052567040"/>
 </p>
 
 <!--
