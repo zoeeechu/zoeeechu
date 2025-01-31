@@ -44,7 +44,7 @@
 &nbsp; 
 
 <p align="center">
-🔭 I’m currently working on <a href="https://github.com/zoeeechu/Nahla-Engine">Nahla Engine</a>
+🔭 I’m currently working on <a href="https://github.com/StarStruckEngine/StarStruck">StarStruck Engine</a>
 <p align="center">
 🌱 I’m currently learning Graphics Programming with OpenGL & SDL
 <p align="center">
