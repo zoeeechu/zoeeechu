@@ -58,11 +58,6 @@
 
 &nbsp; 
 
-
-<h3 align="center">
-Have any questions? DM me on Discord!✨
-</h3>
-
 <p align="center">
 &nbsp; 
 </p>
